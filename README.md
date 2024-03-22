@@ -32,4 +32,4 @@ After rigorous evaluation, the RandomForest Regressor emerged as the top-perform
 A small difference between RMSE and standard deviation indicates that the model's performance is reliable and stable across different data points.The model is likely generalizing well to unseen data.
 
 
-**Created** a a **Power BI** dashboard showcasing sales data analysis. The dashboard provides insights into various aspects of sales performance, including outlet stores, total sales, number of unique items, average sales, highest item outlet sales, sales across different city tiers, item sales by category, preferred MRP ranges, and the effect of outlet size on item sales.
+**Created** a **Power BI** dashboard showcasing sales data analysis. The dashboard provides insights into various aspects of sales performance, including outlet stores, total sales, number of unique items, average sales, highest item outlet sales, sales across different city tiers, item sales by category, preferred MRP ranges, and the effect of outlet size on item sales.
