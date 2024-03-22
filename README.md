@@ -1,5 +1,5 @@
 # Big-Mart-Sales-Prediction
-In this project, we aim to predict the sales of various items in Big Mart stores using machine learning techniques. Below is an overview of the steps taken in this project:
+In this project, the aim is to predict the sales of various items in Big Mart stores using machine learning techniques. Below is an overview of the steps taken in this project:
 
 **Steps Taken**:-
  1. Preventing Data Leakage: Ensured that there was no data leakage, ensuring that information from the test set did not influence the training process.
@@ -30,3 +30,6 @@ After rigorous evaluation, the RandomForest Regressor emerged as the top-perform
   3.Standard Deviation: 1054.074
 
 A small difference between RMSE and standard deviation indicates that the model's performance is reliable and stable across different data points.The model is likely generalizing well to unseen data.
+
+
+**Created** a a **Power BI** dashboard showcasing sales data analysis. The dashboard provides insights into various aspects of sales performance, including outlet stores, total sales, number of unique items, average sales, highest item outlet sales, sales across different city tiers, item sales by category, preferred MRP ranges, and the effect of outlet size on item sales.
